@@ -1,5 +1,5 @@
 # shinyapps-data-analyst
-an Accio Repository for Data Analyst Team.
+an Accio Dummy Repository for Data Analyst Team.
 
 ## What is Accio?
 Accio is an R-Shiny based web application that allows users to download raw data directly from BigQuery. It is deployed on top of Albus platform.
